@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **papu9679429830@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MjeNhRpi9_7HjkCsQT22gIK7zfnecKe1/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1w9XE9ekUg8-8MjTCBILKU9eCrO3bLU5Q/view?usp=sharing)
 
 - ⚡ Fun fact **I can make your fun**
 
