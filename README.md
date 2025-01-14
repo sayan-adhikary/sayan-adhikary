@@ -5,11 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Spring Framework**
-
-- 👨‍💻 All of my projects are available at [portfolio](https://sayansportfolio.netlify.app/)
-
-- 💬 Ask me about **react**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **papu9679429830@gmail.com**
 
