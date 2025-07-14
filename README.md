@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **papu9679429830@gmail.com**
 
