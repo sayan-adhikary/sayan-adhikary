@@ -15,7 +15,7 @@
 
 <div align="center" style="margin-top: 20px;"> 
   <a href="mailto:papu9679429830@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/sayan-adhikary-papu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/papu9679429830/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=black" alt="GeeksforGeeks"/>
   </a>
 </div>
 
@@ -35,7 +35,7 @@
 
 ### 👨‍💻 About Me
 
-- 🇮🇳 I'm based in **Midnapore, West Bengal, India**.  
+- 🇮🇳 I'm based in **West Bengal, India**.  
 - 🌱 Currently diving deep into **Python for Data Science**, focusing on Pandas, NumPy, and Scikit-learn.  
 - 🎯 My goal is to **leverage data to solve real-world problems** and contribute to impactful projects.  
 - 📄 Check out my [**Resume**](https://drive.google.com/file/d/1HvYY7XAPd-1IPegGNVH2UsUSiiyjjcPh/view?usp=sharing).  
