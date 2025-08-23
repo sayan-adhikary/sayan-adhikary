@@ -38,7 +38,7 @@
 - 🇮🇳 I'm based in **West Bengal, India**.  
 - 🌱 Currently diving deep into **Python for Data Science**, focusing on Pandas, NumPy, and Scikit-learn.  
 - 🎯 My goal is to **leverage data to solve real-world problems** and contribute to impactful projects.  
-- 📄 Check out my [**Resume**](https://drive.google.com/file/d/1HvYY7XAPd-1IPegGNVH2UsUSiiyjjcPh/view?usp=sharing).  
+- 📄 Check out my [**Resume**](https://drive.google.com/file/d/1HvYY7XAPd-1IPegGNVH2UsUSiiyjjcPh/view?usp=sharing)[**/cv**](https://sayan-adhikary.github.io/CV/)
 - ⚡ Fun fact: *Every dataset has a story — I love uncovering it!*  
 
 ---
