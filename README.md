@@ -59,6 +59,12 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" /><br><b>NumPy</b>
     </td>
     <td align="center" width="120" height="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib" /><br><b>Matplotlib</b>
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="50" height="50" alt="Seaborn" /><br><b>Seaborn</b>
+    </td>
+    <td align="center" width="120" height="100">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="Scikit-learn" /><br><b>Scikit-learn</b>
     </td>
     <td align="center" width="120" height="100">
@@ -66,12 +72,6 @@
     </td>
     <td align="center" width="120" height="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" /><br><b>PyTorch</b>
-    </td>
-    <td align="center" width="120" height="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib" /><br><b>Matplotlib</b>
-    </td>
-    <td align="center" width="120" height="100">
-      <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="50" height="50" alt="Seaborn" /><br><b>Seaborn</b>
     </td>
   </tr>
   <tr>
