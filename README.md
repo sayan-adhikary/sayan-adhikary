@@ -20,9 +20,9 @@
   <a href="https://www.linkedin.com/in/sayan-adhikary-papu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/SayanAd9679" target="_blank">
+  <!-- <a href="https://x.com/SayanAd9679" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
+  </a> -->
   <a href="https://leetcode.com/u/papu9679/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
