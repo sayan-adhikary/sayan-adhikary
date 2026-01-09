@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Professional Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:4b6cb7&height=180&section=header&text=Sayan%20Adhikary&fontSize=65&fontAlign=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Python&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:4b6cb7&height=180&section=header&text=Sayan%20Adhikary&fontSize=65&fontAlign=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Web%20Dev%20%7C%20JavaScript%20%7C%20Java&descAlign=50&descAlignY=60" />
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
@@ -36,7 +36,7 @@
 ### 👨‍💻 About Me
 
 - 🇮🇳 I'm based in **West Bengal, India**.  
-- 🌱 Currently diving deep into **Python for Data Science**, focusing on Pandas, NumPy, and Scikit-learn.  
+- 🌱 Currently diving deep into **MERN**, focusing on JavaScript, Mongoos, React, Node, Express.  
 - 🎯 My goal is to **leverage data to solve real-world problems** and contribute to impactful projects.  
 - 📄 Check out my [**Resume**](https://drive.google.com/file/d/1HvYY7XAPd-1IPegGNVH2UsUSiiyjjcPh/view?usp=sharing)[**/cv**](https://sayan-adhikary.github.io/CV/)
 - ⚡ Fun fact: *Every dataset has a story — I love uncovering it!*  
@@ -49,7 +49,7 @@
 
 <table>
   <tr>
-    <td align="center" width="120" height="100">
+    <!-- <td align="center" width="120" height="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" /><br><b>Python</b>
     </td>
     <td align="center" width="120" height="100">
@@ -77,13 +77,7 @@
   <tr>
     <td align="center" width="120" height="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" alt="Jupyter" /><br><b>Jupyter</b>
-    </td>
-    <td align="center" width="120" height="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL" /><br><b>MySQL</b>
-    </td>
-    <td align="center" width="120" height="100">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git" /><br><b>Git</b>
-    </td>
+    </td> -->
     <td align="center" width="120" height="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" /><br><b>Java</b>
     </td>
@@ -98,6 +92,12 @@
     </td>
     <td align="center" width="120" height="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js" /><br><b>Node.js</b>
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL" /><br><b>MySQL</b>
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git" /><br><b>Git</b>
     </td>
   </tr>
 </table>
