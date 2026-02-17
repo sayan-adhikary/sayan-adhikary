@@ -49,8 +49,35 @@
 
 <table>
   <tr>
-    <!-- <td align="center" width="120" height="100">
+    <td align="center" width="120" height="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" /><br><b>Java</b>
+      <td align="center" width="120" height="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" /><br><b>Python</b>
+    </td>
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /><br><b>JavaScript</b>
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5" /><br><b>HTML5</b>
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3" /><br><b>CSS3</b>
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js" /><br><b>Node.js</b>
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL" /><br><b>MySQL</b>
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git" /><br><b>Git</b>
+    </td>
+  </tr>
+
+  <tr>
+  <td align="center" width="120" height="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" alt="Jupyter" /><br><b>Jupyter</b>
     </td>
     <td align="center" width="120" height="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" /><br><b>Pandas</b>
@@ -74,32 +101,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" /><br><b>PyTorch</b>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="120" height="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" alt="Jupyter" /><br><b>Jupyter</b>
-    </td> -->
-    <td align="center" width="120" height="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" /><br><b>Java</b>
-    </td>
-    <td align="center" width="120" height="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /><br><b>JavaScript</b>
-    </td>
-    <td align="center" width="120" height="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5" /><br><b>HTML5</b>
-    </td>
-    <td align="center" width="120" height="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3" /><br><b>CSS3</b>
-    </td>
-    <td align="center" width="120" height="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js" /><br><b>Node.js</b>
-    </td>
-    <td align="center" width="120" height="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL" /><br><b>MySQL</b>
-    </td>
-    <td align="center" width="120" height="100">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git" /><br><b>Git</b>
-    </td>
-  </tr>
 </table>
 
 </div>
@@ -109,9 +110,9 @@
 ### 📊 My GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan-adhikary&layout=compact&theme=radical&hide_border=true&bg_color=0f2027&title_color=4b6cb7&text_color=ffffff" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan-adhikary&layout=compact&theme=radical&hide_border=true&bg_color=0f2027&title_color=4b6cb7&text_color=ffffff" alt="Top Languages" /> -->
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=sayan-adhikary&show_icons=true&theme=radical&hide_border=true&bg_color=0f2027&title_color=4b6cb7&icon_color=4b6cb7&text_color=ffffff&count_private=true" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sayan-adhikary&show_icons=true&theme=radical&hide_border=true&bg_color=0f2027&title_color=4b6cb7&icon_color=4b6cb7&text_color=ffffff&count_private=true" alt="GitHub Stats" /> -->
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayan-adhikary&theme=radical&hide_border=true&background=0f2027&ring=4b6cb7&fire=ffffff&currStreakLabel=4b6cb7&sideLabels=ffffff&dates=aaaaaa" alt="GitHub Streak" />
 </div>
